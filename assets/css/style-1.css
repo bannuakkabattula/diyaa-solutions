@@ -3181,6 +3181,12 @@ html:has(.modal-open) {
   background-color: var(--background-color2);
   min-height: 100vh;
 }
+@media screen and (max-width:576px) {
+  .hero-one.section {
+      background-color: var(--background-color2);
+      min-height: 87vh;
+    }
+}
 
 .hero-one__slider {
   overflow: hidden;
