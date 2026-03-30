@@ -3184,7 +3184,7 @@ html:has(.modal-open) {
 @media screen and (max-width:576px) {
   .hero-one.section {
       background-color: var(--background-color2);
-      min-height: 87vh;
+      min-height: 76vh;
     }
 }
 
