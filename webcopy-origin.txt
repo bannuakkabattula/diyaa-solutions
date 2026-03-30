@@ -1,0 +1,1824 @@
+Uri: https://axora-html.netlify.app/
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://axora-html.netlify.app/404
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\404.html
+Content Type: text/html
+
+Uri: https://axora-html.netlify.app/about
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\about.html
+Content Type: text/html
+
+Uri: https://axora-html.netlify.app/assets/css/plugins.css
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\css\plugins-1.css
+Content Type: text/css
+
+Uri: https://axora-html.netlify.app/assets/css/style.css
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\css\style-1.css
+Content Type: text/css
+
+Uri: https://axora-html.netlify.app/assets/images/about/about-2-arrow-img.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\about\about-2-arrow-img-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/about/about-2-circle-text.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\about\about-2-circle-text-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/about/about-2-mask-arrow.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\about\about-2-mask-arrow.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/about/about-2-thumb.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\about\about-2-thumb-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/about/about-thumb-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\about\about-thumb-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/about/about-thumb-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\about\about-thumb-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/about/about-thumb-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\about\about-thumb-3.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/about/about-video-thumb.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\about\about-video-thumb.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/award/award-shape-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\award\award-shape-1-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/award/award-thumb-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\award\award-thumb-1-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/award/award-thumb-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\award\award-thumb-2-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/award/award-thumb-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\award\award-thumb-3-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/blog-details/blog-details-thumb-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\blog-details\blog-details-thumb-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/blog-details/blog-details-thumb-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\blog-details\blog-details-thumb-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/blog-details/blog-details-thumb-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\blog-details\blog-details-thumb-3.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/blog-details/blog-details-thumb-4.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\blog-details\blog-details-thumb-4.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/blog-standard/blog-standard-thumb-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\blog-standard\blog-standard-thumb-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/blog-standard/blog-standard-thumb-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\blog-standard\blog-standard-thumb-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/blog-standard/blog-standard-thumb-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\blog-standard\blog-standard-thumb-3.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/blog-standard/blog-standard-thumb-4.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\blog-standard\blog-standard-thumb-4.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/blog/blog-author-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\blog\blog-author-1-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/blog/blog-author-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\blog\blog-author-2-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/blog/blog-thumb-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\blog\blog-thumb-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/blog/blog-thumb-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\blog\blog-thumb-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/blog/blog-thumb-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\blog\blog-thumb-3-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/blog/blog-thumb-4.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\blog\blog-thumb-4-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/choose-us/choose-us-thumb-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\choose-us\choose-us-thumb-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/client/avatar-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\client\avatar-1-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/client/avatar-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\client\avatar-2-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/client/avatar-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\client\avatar-3-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/client/avatar-4-4.svg
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\client\avatar-4-4.svg
+Content Type: image/svg+xml
+
+Uri: https://axora-html.netlify.app/assets/images/client/avatar-4.svg
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\client\avatar-4-1.svg
+Content Type: image/svg+xml
+
+Uri: https://axora-html.netlify.app/assets/images/client/client-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\client\client-1-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/client/client-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\client\client-2-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/client/client-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\client\client-3-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/client/client-4.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\client\client-4-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/client/client-5.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\client\client-5-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/client/client-6.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\client\client-6-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/client/client-7.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\client\client-7-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/client/client-ahape-1-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\client\client-ahape-1-1-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/client/client-ahape-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\client\client-ahape-1-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/error/error.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\error\error.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/favicon-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\favicon-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\favicon-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/footer/footer-2-shape-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\footer\footer-2-shape-1-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/footer/footer-2-shape-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\footer\footer-2-shape-2-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/footer/footer-2-shape-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\footer\footer-2-shape-3-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/footer/footer-2-shape-4.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\footer\footer-2-shape-4-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/hero/h1-shape-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\hero\h1-shape-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/hero/h1-shape-2-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\hero\h1-shape-2-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/hero/h1-shape-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\hero\h1-shape-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/hero/h1-shape-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\hero\h1-shape-3.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/hero/h1-shape-4.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\hero\h1-shape-4.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/hero/h1-thumb-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\hero\h1-thumb-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/hero/h1-thumb-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\hero\h1-thumb-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/hero/h2-avatar-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\hero\h2-avatar-2-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/hero/h2-avatar-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\hero\h2-avatar-3-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/hero/h2-avatar-4.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\hero\h2-avatar-4-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/hero/h2-shape-1-1.svg
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\hero\h2-shape-1-1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://axora-html.netlify.app/assets/images/hero/h2-shape-1.svg
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\hero\h2-shape-1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://axora-html.netlify.app/assets/images/hero/h2-thumb-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\hero\h2-thumb-1-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/icons/icon-1-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\icons\icon-1-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/icons/icon-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\icons\icon-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/icons/icon-2-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\icons\icon-2-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/icons/icon-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\icons\icon-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/icons/icon-3-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\icons\icon-3-3.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/icons/icon-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\icons\icon-3.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/icons/icon-4-4.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\icons\icon-4-4.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/icons/icon-4.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\icons\icon-4.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/icons/icon-5-5.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\icons\icon-5-5.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/icons/icon-5.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\icons\icon-5.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/icons/icon-6-6.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\icons\icon-6-6.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/icons/icon-6.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\icons\icon-6.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/icons/icon-7-7.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\icons\icon-7-7.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/icons/icon-7.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\icons\icon-7-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/icons/icon-8-8.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\icons\icon-8-8.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/icons/icon-8.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\icons\icon-8-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/icons/icon-9-9.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\icons\icon-9-9.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/icons/icon-9.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\icons\icon-9-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/instagrame/instagrame-thumb-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\instagrame\instagrame-thumb-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/instagrame/instagrame-thumb-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\instagrame\instagrame-thumb-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/instagrame/instagrame-thumb-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\instagrame\instagrame-thumb-3.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/instagrame/instagrame-thumb-4.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\instagrame\instagrame-thumb-4.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/instagrame/instagrame-thumb-5.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\instagrame\instagrame-thumb-5.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/logos/logo-2.svg
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\logos\logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://axora-html.netlify.app/assets/images/logos/logo.svg
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\logos\logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://axora-html.netlify.app/assets/images/portfolio/portfolio-details-thumb.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\portfolio\portfolio-details-thumb.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/portfolio/portfolio-thumb-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\portfolio\portfolio-thumb-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/portfolio/portfolio-thumb-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\portfolio\portfolio-thumb-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/portfolio/portfolio-thumb-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\portfolio\portfolio-thumb-3.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/portfolio/portfolio-thumb-4.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\portfolio\portfolio-thumb-4.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/portfolio/portfolio-thumb-5.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\portfolio\portfolio-thumb-5.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/portfolio/portfolio-thumb-6.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\portfolio\portfolio-thumb-6.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/portfolio/portfolio-thumb-7.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\portfolio\portfolio-thumb-7.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/portfolio/portfolio-thumb-8.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\portfolio\portfolio-thumb-8.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/portfolio/portfolio-thumb-9.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\portfolio\portfolio-thumb-9.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/service-details/service-details-thumb-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\service-details\service-details-thumb-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/service-details/service-details-thumb-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\service-details\service-details-thumb-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/service/service-icon-1-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\service\service-icon-1-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/service/service-icon-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\service\service-icon-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/service/service-icon-2-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\service\service-icon-2-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/service/service-icon-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\service\service-icon-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/service/service-icon-3-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\service\service-icon-3-3.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/service/service-icon-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\service\service-icon-3.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/service/service-shape-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\service\service-shape-1-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/service/service-thumb-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\service\service-thumb-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/service/service-thumb-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\service\service-thumb-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/service/service-thumb-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\service\service-thumb-3.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/team/team-shape.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\team\team-shape-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/team/team-thumb-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\team\team-thumb-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/team/team-thumb-10.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\team\team-thumb-10.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/team/team-thumb-11.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\team\team-thumb-11.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/team/team-thumb-12.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\team\team-thumb-12.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/team/team-thumb-13.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\team\team-thumb-13.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/team/team-thumb-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\team\team-thumb-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/team/team-thumb-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\team\team-thumb-3.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/team/team-thumb-4.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\team\team-thumb-4.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/team/team-thumb-5.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\team\team-thumb-5-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/team/team-thumb-6.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\team\team-thumb-6-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/team/team-thumb-7.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\team\team-thumb-7-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/team/team-thumb-8.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\team\team-thumb-8-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/team/team-thumb-9.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\team\team-thumb-9.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/testimonial/testimonial-avatar-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\testimonial\testimonial-avatar-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/testimonial/testimonial-avatar-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\testimonial\testimonial-avatar-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/testimonial/testimonial-avatar-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\testimonial\testimonial-avatar-3.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/testimonial/testimonial-avatar-4.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\testimonial\testimonial-avatar-4.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/testimonial/testimonial-thumb-1-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\testimonial\testimonial-thumb-1-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/testimonial/testimonial-thumb-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\testimonial\testimonial-thumb-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/testimonial/testimonial-thumb-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\testimonial\testimonial-thumb-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/testimonial/testimonial-thumb-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\testimonial\testimonial-thumb-3.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/testimonial/testimonial-thumb-4.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\testimonial\testimonial-thumb-4.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/testimonial/testimonial-thumb-5.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\testimonial\testimonial-thumb-5-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/testimonial/testimonial-thumb-6.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\testimonial\testimonial-thumb-6-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/testimonial/testimonial-thumb-7.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\testimonial\testimonial-thumb-7-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/video/video-btn-mask.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\video\video-btn-mask.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/video/video-thumb.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\video\video-thumb.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/widget/latest-post-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\widget\latest-post-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/widget/latest-post-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\widget\latest-post-2.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/widget/latest-post-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\widget\latest-post-3.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/work/work-shape-1-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\work\work-shape-1-1-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/work/work-shape-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\work\work-shape-1-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/work/work-thumb-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\work\work-thumb-1-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/work/work-thumb-2.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\work\work-thumb-2-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/work/work-thumb-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\work\work-thumb-3-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/work/work-thumb-4.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\work\work-thumb-4-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/work/work-thumb-5.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\work\work-thumb-5-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/work/work-thumb-6.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\work\work-thumb-6-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/working-process/working-process-mask-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\working-process\working-process-mask-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/working-process/working-process-thumb-1.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\working-process\working-process-thumb-1.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/images/working-process/working-process-thumb-3.png
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\images\working-process\working-process-thumb-3.png
+Content Type: image/png
+
+Uri: https://axora-html.netlify.app/assets/js/main.js?v=1.1
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\js\main-1.js
+Content Type: application/javascript
+
+Uri: https://axora-html.netlify.app/assets/js/vendor/backToTop.js
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\js\vendor\backToTop-1.js
+Content Type: application/javascript
+
+Uri: https://axora-html.netlify.app/assets/js/vendor/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\js\vendor\bootstrap.bundle.min-1.js
+Content Type: application/javascript
+
+Uri: https://axora-html.netlify.app/assets/js/vendor/counter.js
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\js\vendor\counter-1.js
+Content Type: application/javascript
+
+Uri: https://axora-html.netlify.app/assets/js/vendor/gsap.min.js
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\js\vendor\gsap.min-1.js
+Content Type: application/javascript
+
+Uri: https://axora-html.netlify.app/assets/js/vendor/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\js\vendor\jquery-3.7.1.min-1.js
+Content Type: application/javascript
+
+Uri: https://axora-html.netlify.app/assets/js/vendor/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\js\vendor\jquery.magnific-popup.min-1.js
+Content Type: application/javascript
+
+Uri: https://axora-html.netlify.app/assets/js/vendor/jquery.meanmenu.min.js
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\js\vendor\jquery.meanmenu.min-1.js
+Content Type: application/javascript
+
+Uri: https://axora-html.netlify.app/assets/js/vendor/lenis.min.js
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\js\vendor\lenis.min-1.js
+Content Type: application/javascript
+
+Uri: https://axora-html.netlify.app/assets/js/vendor/marquee.min.js
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\js\vendor\marquee.min-1.js
+Content Type: application/javascript
+
+Uri: https://axora-html.netlify.app/assets/js/vendor/ScrollToPlugin.min.js
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\js\vendor\ScrollToPlugin.min-1.js
+Content Type: application/javascript
+
+Uri: https://axora-html.netlify.app/assets/js/vendor/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\js\vendor\ScrollTrigger.min-1.js
+Content Type: application/javascript
+
+Uri: https://axora-html.netlify.app/assets/js/vendor/SplitText.min.js
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\js\vendor\SplitText.min-1.js
+Content Type: application/javascript
+
+Uri: https://axora-html.netlify.app/assets/js/vendor/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\js\vendor\swiper-bundle.min-1.js
+Content Type: application/javascript
+
+Uri: https://axora-html.netlify.app/assets/plugins/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\plugins\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://axora-html.netlify.app/assets/plugins/fortAwesome.css
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\plugins\fortAwesome.css
+Content Type: text/css
+
+Uri: https://axora-html.netlify.app/assets/plugins/lenis.css
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\plugins\lenis.css
+Content Type: text/css
+
+Uri: https://axora-html.netlify.app/assets/plugins/magnific-popup.css
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\plugins\magnific-popup.css
+Content Type: text/css
+
+Uri: https://axora-html.netlify.app/assets/plugins/meanmenu.min.css
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\plugins\meanmenu.min.css
+Content Type: text/css
+
+Uri: https://axora-html.netlify.app/assets/plugins/select2.css
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\plugins\select2.css
+Content Type: text/css
+
+Uri: https://axora-html.netlify.app/assets/plugins/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\plugins\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://axora-html.netlify.app/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://axora-html.netlify.app/assets/webfonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\webfonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://axora-html.netlify.app/assets/webfonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://axora-html.netlify.app/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://axora-html.netlify.app/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://axora-html.netlify.app/assets/webfonts/fa-thin-100.woff2
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\webfonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://axora-html.netlify.app/assets/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\assets\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://axora-html.netlify.app/blog
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\blog.html
+Content Type: text/html
+
+Uri: https://axora-html.netlify.app/blog-details
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\blog-details.html
+Content Type: text/html
+
+Uri: https://axora-html.netlify.app/blog-grid
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\blog-grid.html
+Content Type: text/html
+
+Uri: https://axora-html.netlify.app/contact
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\contact.html
+Content Type: text/html
+
+Uri: https://axora-html.netlify.app/index-2
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\index-2-1.html
+Content Type: text/html
+
+Uri: https://axora-html.netlify.app/index-3
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\index-3.html
+Content Type: text/html
+
+Uri: https://axora-html.netlify.app/index-4
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\index-4.html
+Content Type: text/html
+
+Uri: https://axora-html.netlify.app/portfolio
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\portfolio.html
+Content Type: text/html
+
+Uri: https://axora-html.netlify.app/portfolio-details
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\portfolio-details.html
+Content Type: text/html
+
+Uri: https://axora-html.netlify.app/service
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\service.html
+Content Type: text/html
+
+Uri: https://axora-html.netlify.app/service-details
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\service-details.html
+Content Type: text/html
+
+Uri: https://axora-html.netlify.app/team
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\team.html
+Content Type: text/html
+
+Uri: https://axora-html.netlify.app/team-details
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\team-details.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\css2-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\css2-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\css2-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjaVc.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkaVc.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjaVc.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkaVc.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v22/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj42Vksj.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\spacegrotesk\v22\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj42Vksj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v22/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVksj.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\spacegrotesk\v22\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj4PVksj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v22/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj62UUsj.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\spacegrotesk\v22\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj62UUsj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v22/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUUsj.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\spacegrotesk\v22\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7aUUsj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacegrotesk/v22/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUUsj.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\spacegrotesk\v22\V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUUsj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacemono/v17/i7dMIFZifjKcF5UAWdDRaPpZYFI.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\spacemono\v17\i7dMIFZifjKcF5UAWdDRaPpZYFI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacemono/v17/i7dNIFZifjKcF5UAWdDRYER8QA.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\spacemono\v17\i7dNIFZifjKcF5UAWdDRYER8QA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacemono/v17/i7dPIFZifjKcF5UAWdDRUEY.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\spacemono\v17\i7dPIFZifjKcF5UAWdDRUEY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacemono/v17/i7dSIFZifjKcF5UAWdDRYERE_FeaGw.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\spacemono\v17\i7dSIFZifjKcF5UAWdDRYERE_FeaGw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqD-R4fFg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqD-R4fFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDFRkfFg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDFRkfFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkfFg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkfFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDlR4fFg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDlR4fFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSx4fFg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSx4fFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSxkfFg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSxkfFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDYhkfFg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDYhkfFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4fFg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4fFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx8fFg.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\urbanist\v18\L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx8fFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10pUpmv.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10pUpmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10QUpmv.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10QUpmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113Upmv.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113Upmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113VZmv.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113VZmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA11eUpmv.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA11eUpmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA12pVZmv.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA12pVZmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VJmv.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VJmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VZmv.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VZmv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/urbanist/v18/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA13FVZmv.ttf
+File Name: C:\Downloaded Web Sites\axora-html.netlify.app\s\urbanist\v18\L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA13FVZmv.ttf
+Content Type: font/ttf
+
